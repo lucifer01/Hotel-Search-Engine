@@ -1,0 +1,25 @@
+.shiftDown
+{
+	margin-top: 10px;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.extra 
+{
+	cursor: pointer;
+}
+
+.more
+{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.hiddenPerm
+{
+	display: none;
+}
